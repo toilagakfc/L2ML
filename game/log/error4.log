@@ -1,0 +1,211 @@
+Oct 04, 2025 9:08:41 PM org.l2jmobius.gameserver.model.siege.Castle load
+WARNING: Exception: loadCastleData(): Column 'dynamicTreasury' not found.
+java.sql.SQLSyntaxErrorException: Column 'dynamicTreasury' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getLong(ResultSetImpl.java:884)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getLong(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.siege.Castle.load(Castle.java:746)
+	at org.l2jmobius.gameserver.model.siege.Castle.<init>(Castle.java:251)
+	at org.l2jmobius.gameserver.managers.CastleManager.loadInstances(CastleManager.java:240)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:343)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:08:41 PM org.l2jmobius.gameserver.model.siege.Castle load
+WARNING: Exception: loadCastleData(): Column 'dynamicTreasury' not found.
+java.sql.SQLSyntaxErrorException: Column 'dynamicTreasury' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getLong(ResultSetImpl.java:884)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getLong(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.siege.Castle.load(Castle.java:746)
+	at org.l2jmobius.gameserver.model.siege.Castle.<init>(Castle.java:251)
+	at org.l2jmobius.gameserver.managers.CastleManager.loadInstances(CastleManager.java:240)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:343)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:08:41 PM org.l2jmobius.gameserver.model.siege.Castle load
+WARNING: Exception: loadCastleData(): Column 'dynamicTreasury' not found.
+java.sql.SQLSyntaxErrorException: Column 'dynamicTreasury' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getLong(ResultSetImpl.java:884)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getLong(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.siege.Castle.load(Castle.java:746)
+	at org.l2jmobius.gameserver.model.siege.Castle.<init>(Castle.java:251)
+	at org.l2jmobius.gameserver.managers.CastleManager.loadInstances(CastleManager.java:240)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:343)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:08:41 PM org.l2jmobius.gameserver.model.siege.Castle load
+WARNING: Exception: loadCastleData(): Column 'dynamicTreasury' not found.
+java.sql.SQLSyntaxErrorException: Column 'dynamicTreasury' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getLong(ResultSetImpl.java:884)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getLong(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.siege.Castle.load(Castle.java:746)
+	at org.l2jmobius.gameserver.model.siege.Castle.<init>(Castle.java:251)
+	at org.l2jmobius.gameserver.managers.CastleManager.loadInstances(CastleManager.java:240)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:343)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:08:41 PM org.l2jmobius.gameserver.model.siege.Castle load
+WARNING: Exception: loadCastleData(): Column 'dynamicTreasury' not found.
+java.sql.SQLSyntaxErrorException: Column 'dynamicTreasury' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getLong(ResultSetImpl.java:884)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getLong(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.siege.Castle.load(Castle.java:746)
+	at org.l2jmobius.gameserver.model.siege.Castle.<init>(Castle.java:251)
+	at org.l2jmobius.gameserver.managers.CastleManager.loadInstances(CastleManager.java:240)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:343)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:08:43 PM org.l2jmobius.gameserver.managers.RankManager update
+WARNING: Could not load pvp total rank data: org.l2jmobius.gameserver.managers.RankManager@6955ca95 - Unknown column 'deaths' in 'field list'
+java.sql.SQLSyntaxErrorException: Unknown column 'deaths' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:990)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1058)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.l2jmobius.gameserver.managers.RankManager.update(RankManager.java:255)
+	at org.l2jmobius.commons.threads.ThreadPool$RunnableWrapper.run(ThreadPool.java:247)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:369)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Oct 04, 2025 9:08:49 PM org.l2jmobius.gameserver.managers.FortManager loadInstances
+WARNING: Exception: loadFortData(): Can't find flagpole for Fort Western (117)
+java.lang.NullPointerException: Can't find flagpole for Fort Western (117)
+	at org.l2jmobius.gameserver.model.siege.Fort.loadFlagPoles(Fort.java:784)
+	at org.l2jmobius.gameserver.model.siege.Fort.<init>(Fort.java:247)
+	at org.l2jmobius.gameserver.managers.FortManager.loadInstances(FortManager.java:148)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:405)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:521)
+
+Oct 04, 2025 9:10:20 PM org.l2jmobius.gameserver.model.actor.Player restore
+SEVERE: Failed loading character.
+java.sql.SQLSyntaxErrorException: Column 'deaths' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:600)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getInt(ResultSetImpl.java:873)
+	at com.zaxxer.hikari.pool.HikariProxyResultSet.getInt(HikariProxyResultSet.java)
+	at org.l2jmobius.gameserver.model.actor.Player.restore(Player.java:7099)
+	at org.l2jmobius.gameserver.model.actor.Player.load(Player.java:1192)
+	at org.l2jmobius.gameserver.network.GameClient.load(GameClient.java:537)
+	at org.l2jmobius.gameserver.network.clientpackets.CharacterSelect.runImpl(CharacterSelect.java:181)
+	at org.l2jmobius.gameserver.network.clientpackets.ClientPacket.run(ClientPacket.java:58)
+	at org.l2jmobius.commons.network.PacketExecutor$PacketRunnable.run(PacketExecutor.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Oct 04, 2025 9:10:48 PM org.l2jmobius.gameserver.model.actor.Player createDb
+SEVERE: Could not insert char data: Unknown column 'kills' in 'field list'
+java.sql.SQLSyntaxErrorException: Unknown column 'kills' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:990)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1168)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1103)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1450)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1086)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.l2jmobius.gameserver.model.actor.Player.createDb(Player.java:6966)
+	at org.l2jmobius.gameserver.model.actor.Player.create(Player.java:1021)
+	at org.l2jmobius.gameserver.network.clientpackets.CharacterCreate.runImpl(CharacterCreate.java:234)
+	at org.l2jmobius.gameserver.network.clientpackets.ClientPacket.run(ClientPacket.java:58)
+	at org.l2jmobius.commons.network.PacketExecutor$PacketRunnable.run(PacketExecutor.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Oct 04, 2025 9:10:55 PM org.l2jmobius.gameserver.model.actor.Player createDb
+SEVERE: Could not insert char data: Unknown column 'kills' in 'field list'
+java.sql.SQLSyntaxErrorException: Unknown column 'kills' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:990)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1168)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1103)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1450)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1086)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.l2jmobius.gameserver.model.actor.Player.createDb(Player.java:6966)
+	at org.l2jmobius.gameserver.model.actor.Player.create(Player.java:1021)
+	at org.l2jmobius.gameserver.network.clientpackets.CharacterCreate.runImpl(CharacterCreate.java:234)
+	at org.l2jmobius.gameserver.network.clientpackets.ClientPacket.run(ClientPacket.java:58)
+	at org.l2jmobius.commons.network.PacketExecutor$PacketRunnable.run(PacketExecutor.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Oct 04, 2025 9:11:06 PM org.l2jmobius.gameserver.model.actor.Player createDb
+SEVERE: Could not insert char data: Unknown column 'kills' in 'field list'
+java.sql.SQLSyntaxErrorException: Unknown column 'kills' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:990)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1168)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1103)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1450)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1086)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.l2jmobius.gameserver.model.actor.Player.createDb(Player.java:6966)
+	at org.l2jmobius.gameserver.model.actor.Player.create(Player.java:1021)
+	at org.l2jmobius.gameserver.network.clientpackets.CharacterCreate.runImpl(CharacterCreate.java:234)
+	at org.l2jmobius.gameserver.network.clientpackets.ClientPacket.run(ClientPacket.java:58)
+	at org.l2jmobius.commons.network.PacketExecutor$PacketRunnable.run(PacketExecutor.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Oct 04, 2025 9:12:04 PM org.l2jmobius.gameserver.model.actor.Player createDb
+SEVERE: Could not insert char data: Unknown column 'kills' in 'field list'
+java.sql.SQLSyntaxErrorException: Unknown column 'kills' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:990)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1168)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1103)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1450)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1086)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.l2jmobius.gameserver.model.actor.Player.createDb(Player.java:6966)
+	at org.l2jmobius.gameserver.model.actor.Player.create(Player.java:1021)
+	at org.l2jmobius.gameserver.network.clientpackets.CharacterCreate.runImpl(CharacterCreate.java:234)
+	at org.l2jmobius.gameserver.network.clientpackets.ClientPacket.run(ClientPacket.java:58)
+	at org.l2jmobius.commons.network.PacketExecutor$PacketRunnable.run(PacketExecutor.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
