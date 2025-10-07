@@ -1,0 +1,9 @@
+Dockerfile
+docker-compose.yml
+html/
+L2J_Mobius
+game/log/*
+login/log/*
+*.log
+*.err
+*.error

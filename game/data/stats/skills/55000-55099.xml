@@ -3121,6 +3121,16 @@
 				</amount>
 				<mode>PER</mode>
 			</effect>
+			<effect name="ExpModify">
+				<amount>
+					<value level="5">5</value>
+					<value level="6">10</value>
+					<value level="7">15</value>
+					<value level="8">20</value>
+					<value level="9">30</value>
+					<value level="10">40</value>
+				</amount>
+			</effect>
 		</effects>
 	</skill>
 </list>
