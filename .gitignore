@@ -7,3 +7,10 @@ login/log/*
 *.log
 *.err
 *.error
+.log/
+java.cfg
+log.cfg
+console.cfg
+config/
+data/
+log/
