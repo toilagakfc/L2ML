@@ -489,12 +489,12 @@
 				</optionCategory>
 			</optionGroup>
 			<optionGroup order="1">
-				<optionCategory chance="55">
+				<!-- <optionCategory chance="55">
 					<optionRange from="50188" to="50190" chance="5.89" />
-				</optionCategory>
-				<optionCategory chance="35">
+				</optionCategory> -->
+				<!-- <optionCategory chance="35">
 					<optionRange from="50191" to="50193" chance="0.94" />
-				</optionCategory>
+				</optionCategory> -->
 				<optionCategory chance="10">
 					<optionRange from="50194" to="50196" chance="1.85" />
 				</optionCategory>
@@ -1603,6 +1603,7 @@
 			<item id="90852" />
 			<item id="90853" />
 			<item id="90854" />
+			<item id="94213" />
 		</itemGroup>
 		<!-- Accessories -->
 		<itemGroup id="10">

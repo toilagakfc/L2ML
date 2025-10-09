@@ -81,6 +81,20 @@
 	<enchant id="92017" maxEnchant="10" safeEnchant="1">
 		<item id="92018" />
 	</enchant>
+
+	<!-- Talisman of Speed -->
+	<enchant id="92402" maxEnchant="10" safeEnchant="1">
+		<item id="92403" />
+	</enchant>
+
+	<!-- Fire Dragon Pedant Lv. 1>5 -->
+	<enchant id="49470" maxEnchant="10" safeEnchant="1">
+		<item id="29704" />
+		<item id="29705" />
+		<item id="29706" />
+		<item id="29707" />
+		<item id="29708" />
+	</enchant>
 	
 	<!-- Talisman of Baium -->
 	<enchant id="91951" maxEnchant="10" safeEnchant="1">
@@ -109,5 +123,9 @@
 		<item id="71309" />
 		<item id="71310" />
 		<item id="71311" />
+	</enchant>
+
+	<enchant id="94215" maxEnchant="10" safeEnchant="1">
+		<item id="94213" />
 	</enchant>
 </list>

@@ -78,7 +78,7 @@
 		<set name="enchant_enabled" val="true" />
 		<set name="enchant_limit" val="10" />
 		<skills>
-			<skill id="50389" level="1" /> <!-- Heroic Circlet -->
+			<!-- <skill id="50389" level="1" /> Heroic Circlet -->
 			<skill id="50390" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Enchant Scroll: Heroic Circlet +1-->
 			<skill id="50390" level="2" type="ON_ENCHANT" type_value="2"/> <!-- Enchant Scroll: Heroic Circlet +2-->
 			<skill id="50390" level="3" type="ON_ENCHANT" type_value="3"/> <!-- Enchant Scroll: Heroic Circlet +3-->
@@ -112,6 +112,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="etcitem_type" val="ENCHT_AM" /> <!-- BLESS_ENCHT_AM -->
 		<set name="handler" val="EnchantScrolls" />
 		<skills>
 			<skill id="50389" level="1" /> <!-- Enchant Scroll: Heroic Circlet -->
